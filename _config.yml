@@ -85,8 +85,8 @@ project_button: Eshop
 github: https://www.facebook.com/SmartionMx/?ref=br_rs
 medium: https://medium.com
 
-baseurl: \_posts\
-url: https://smartion.github.io/mainpage/ 
+baseurl: "/_posts/"
+url: "https://smartion.github.io/mainpage/" 
 
 # Google tracking, if both are filled, tag manager will prevail. Set up GA through GTM in that case
 tag_manager_id: # This looks something like GTM-XXXXXXX
