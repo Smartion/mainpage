@@ -85,7 +85,7 @@ project_button: Eshop
 github: https://www.facebook.com/SmartionMx/?ref=br_rs
 medium: https://medium.com
 
-baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
+baseurl: \_posts\
 url: https://smartion.github.io/mainpage/ 
 
 # Google tracking, if both are filled, tag manager will prevail. Set up GA through GTM in that case
