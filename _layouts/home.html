@@ -5,13 +5,10 @@
     <div class="section no-pad-bot">
       <div class="container">
         <br><br>
-        <h1 class="header center teal-text text-lighten-2">{{ site.name }}</h1>
+        <h1 class="header center teal-text text-lighten-2">{{ site.title }}</h1>
         <div class="row center">
           <h5 class="header col s12 light">{{ site.description }}</h5>
         </div>
-        <p style="text-align: center">  
-        <a class="waves-effect grey darken-3 z-depth-4 waves-light btn" href="{% post_url 2018-07-02-about-me %}" target="_blank"><i class="material-icons right">library_books</i>About me</a>
-      </p>
         <br><br>
 
       </div>
@@ -39,7 +36,7 @@
 
 <div class="container" style="padding:20px;">
   <div id="skills" class="section scrollspy">
-   <h3 style="text-align:center;">Skills</h3>
+   <h3 style="text-align:center;">Tools and Experience</h3>
    {% include skills.html %}
  </div>
 </div>
@@ -59,16 +56,16 @@
   </div>
 
 
-<!-- <div class="container" style="padding:20px;">
+<div class="container" style="padding:20px;">
   <div id="blog" class="section scrollspy">
   <h3 style="text-align:center;">Blog</h3>
   {% include blog-feed.html %}
 </div>
-</div> -->
+</div>
 
 <div class="container" style="padding:20px;">
   <div id="contact" class="section scrollspy">
-  <h3 style="text-align:center;">Contact Me</h3>
+  <h3 style="text-align:center;">Contact</h3>
   {% include contact.html %}
 </div>
 </div>
