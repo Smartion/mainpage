@@ -19,22 +19,35 @@ project_one_description: >
 project_one_url: https://www.facebook.com/commerce/products/1992138404143578/
 project_one_icon: location_on
 
-project_two: Second Project
-project_two_description: Describe your project!
-project_two_url: https://github.com/jameshamann/jekyll-material-theme
-project_two_icon: photo_camera
+project_two: Consultoría para la innovación
+project_two_description: >
+  Consultoría para el desarrollo de soluciones(productos,
+  servicios y procesos) basadas en innovación. 
+  Cada consultoría se ajustará a las necesidades y 
+  características del producto, del cliente y del mercado, 
+  con el acompañamiento de expertos en generación de proyectos 
+  de innovación.
+project_two_url: https://www.facebook.com/commerce/products/769656966491320/
+project_two_icon: hotel
 
 
-project_three: Third Project
-project_three_description: Describe your project!
-project_three_url: https://github.com/jameshamann/jekyll-material-theme
+project_three: Capacitación para la innovación
+project_three_description: >
+ Capacitación a grupos de máximo 15 personas, 
+ para alinear el diseño y la implementación de 
+ estrategias basadas en innovación, en proyectos dentro de las empresas
+project_three_url: https://www.facebook.com/commerce/products/1763683810416991/
 project_three_icon: hotel
 
 
-project_four: Fourth Project
-project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
-project_four_icon: restaurant
+roject_four: Dictaminación de viabilidad para proyectos de innovación
+project_four_description: >
+ Revisión, corrección y dictaminación de la 
+ viabilidad y rentabilidad de proyectos basados en 
+ innovación científica y tecnológica para su implementación, 
+ o presentación a inversionistas públicos y privados.
+project_four_url: https://www.facebook.com/commerce/products/1486995961406390/
+project_four_icon: hotel
 
 portfolio_heading: Portfolio
 portfolio_type: cards
