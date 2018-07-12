@@ -1,7 +1,7 @@
-title: Your awesome title
-name: Your Name
-email: your-email@example.com
-description: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+title: Smartion
+name: Smartion 
+email: contacto.innovaccionmx@gmail.com
+description: INTELIGENCIA + INNOVACIÓN
 
 baseurl: "/blog"
 url: ""
@@ -11,9 +11,12 @@ display_footer: inital  #change this to 'none' if you want to hide the footer co
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
-project_one: "First Project"
-project_one_description: Describe your project!
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
+project_one: Asesoría para la innovación
+project_one_description: >
+  Asesoría personalizada para incorparar soluciones 
+  innovadoras a problemáticas específicas de las Micro, 
+  Pequeñas y Medianas empresas mexicanas.
+project_one_url: https://www.facebook.com/commerce/products/1992138404143578/
 project_one_icon: location_on
 
 project_two: Second Project
