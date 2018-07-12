@@ -4,7 +4,7 @@ email: contacto.innovaccionmx@gmail.com
 description: INTELIGENCIA + INNOVACIÓN
 
 baseurl: ""
-url: "https://smartion.github.io/webpage/"
+url: "smartion.github.io"
 
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
 
