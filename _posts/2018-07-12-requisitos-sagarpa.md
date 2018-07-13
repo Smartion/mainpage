@@ -8,7 +8,7 @@ image: /assets/images/startup.jpg
 
 <p>Si eres una empresa y quieres aplicar para un fondo estos son los requisitos:</p>
 <ul>
-  <li>Registro SURI</li>
+  <li> 1.-Registro SURI</li>
   <li>Solicitud de incentivo</li>
   <li>Acta constitutiva y modificaciones</li>
   <li>Poderes del representante legal de la empresa</li>
