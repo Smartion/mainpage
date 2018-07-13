@@ -83,7 +83,7 @@ colored: colored # Leave blank for black and white icons
 project_button: Eshop
 
 github: https://www.facebook.com/SmartionMx/?ref=br_rs
-linkedin: https://www.linkedin.com/in/leeszetyng/
+linkedin: 
 
 
 # Google tracking, if both are filled, tag manager will prevail. Set up GA through GTM in that case
